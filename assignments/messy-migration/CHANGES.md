@@ -41,5 +41,5 @@ It is used for:
 - Guidance on Flask best practices and bcrypt integration.
 - Writing code and cleaning error handling.
 
-Name: M Harshith Kumar
-Task1 User Management API
+
+
